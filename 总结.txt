@@ -1,0 +1,12 @@
+1/ 做这个首先整体的布局要清楚，给图的大框架是什么样子的
+
+2/先给一个body一个外边框，margin：0 auto; 这是所以的居中显示。
+
+3/对与margin（边界）有了新的认识，margin：0 50px; 上下的属性 左右的属性。
+
+4/删除下划线text-decoration:none; 
+
+5/color不能自己在行内元素中设置，
+要在style{}或者style=“color:#ccc”中设置.
+
+6/想让图片居中显示 外面包裹一个p或者div标签 然后 align="center"就可以了
